@@ -1,0 +1,18 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon_telegram">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M48 96C74.5097 96 96 74.5097 96 48C96 21.4903 74.5097 0 48 0C21.4903 0 0 21.4903 0 48C0 74.5097 21.4903 96 48 96Z" fill="url(#paint0_linear)"/>
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M39.2 70C37.6449 70 37.9092 69.4128 37.3729 67.9322L32.8 52.8824L68 32" fill="#C8DAEA"/>
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M39.2 70C40.4 70 40.9302 69.4512 41.6 68.8L48 62.5768L40.0168 57.7628" fill="#A9C9DD"/>
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M40.016 57.764L59.36 72.0556C61.5674 73.2735 63.1606 72.6429 63.7104 70.0062L71.5844 32.901C72.3906 29.6689 70.3524 28.203 68.2406 29.1617L22.0046 46.9901C18.8486 48.256 18.867 50.0167 21.4294 50.8013L33.2946 54.5046L60.7638 37.1746C62.0605 36.3882 63.2507 36.811 62.2738 37.678" fill="url(#paint1_linear)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="36.0048" y1="4.0032" x2="12.0048" y2="60" gradientUnits="userSpaceOnUse">
+<stop stop-color="#37AEE2"/>
+<stop offset="1" stop-color="#1E96C8"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="41.9912" y1="50.9484" x2="47.1199" y2="67.5383" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EFF7FC"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>
