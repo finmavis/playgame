@@ -4,28 +4,28 @@ self.__precacheManifest = [
     "url": "/playgame/static/media/icon_telegram.26a5026e.svg"
   },
   {
-    "revision": "55495d13cdb0e3ebd79f",
-    "url": "/playgame/static/js/main.55495d13.chunk.js"
+    "revision": "d0deb9a9550469e7af36",
+    "url": "/playgame/static/js/main.d0deb9a9.chunk.js"
   },
   {
     "revision": "a4ed9892267e7576de7e",
     "url": "/playgame/static/js/runtime~main.a4ed9892.js"
   },
   {
-    "revision": "35c51dc10640a1f2d32375e65c4d255c",
-    "url": "/playgame/static/media/news-1.35c51dc1.png"
+    "revision": "89bae5bbeb82d514e1e65946c69e2bc6",
+    "url": "/playgame/static/media/news-1.89bae5bb.png"
   },
   {
-    "revision": "f32544d47fb28f1d2b1975edb62a3dee",
-    "url": "/playgame/static/media/news-2.f32544d4.png"
+    "revision": "0b999f770044ebc3e542ccc68bd88bb4",
+    "url": "/playgame/static/media/news-2.0b999f77.png"
   },
   {
-    "revision": "49d723e9cb31584c038edf13031282f4",
-    "url": "/playgame/static/media/bg-home.49d723e9.png"
+    "revision": "7ea3dbb4a4f6131e480d4bf8c927a106",
+    "url": "/playgame/static/media/bg-home.7ea3dbb4.png"
   },
   {
-    "revision": "6f63045d011f3b5b6a314b76a3fdd8ab",
-    "url": "/playgame/static/media/bg-behind-playgame.6f63045d.png"
+    "revision": "6bf070fbebac0e24a942614f360cda82",
+    "url": "/playgame/static/media/bg-behind-playgame.6bf070fb.png"
   },
   {
     "revision": "bc092bd6b6203c6f04ec9a8274ab93c6",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/playgame/static/js/1.64e16c9f.chunk.js"
   },
   {
-    "revision": "e5dd5b543cbf265a81ee992699e9dd40",
+    "revision": "4aecb7e34e6a46338117d315c1222e9d",
     "url": "/playgame/index.html"
   }
 ];
