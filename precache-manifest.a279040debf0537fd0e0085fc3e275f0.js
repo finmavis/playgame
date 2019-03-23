@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/playgame/static/media/icon_telegram.26a5026e.svg"
   },
   {
-    "revision": "d0deb9a9550469e7af36",
-    "url": "/playgame/static/js/main.d0deb9a9.chunk.js"
+    "revision": "9489e8ded2b11a8fee3c",
+    "url": "/playgame/static/js/main.9489e8de.chunk.js"
   },
   {
     "revision": "a4ed9892267e7576de7e",
@@ -56,11 +56,11 @@ self.__precacheManifest = [
     "url": "/playgame/static/media/icon_medium.ce28ab0e.svg"
   },
   {
-    "revision": "64e16c9fd5087ddfa929",
-    "url": "/playgame/static/js/1.64e16c9f.chunk.js"
+    "revision": "bd4545a6bd921d5adacc",
+    "url": "/playgame/static/js/1.bd4545a6.chunk.js"
   },
   {
-    "revision": "4aecb7e34e6a46338117d315c1222e9d",
+    "revision": "6747f1bdc34593c22b001f77d819ff6d",
     "url": "/playgame/index.html"
   }
 ];

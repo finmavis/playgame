@@ -1,8 +1,8 @@
 {
-  "main.js": "/playgame/static/js/main.d0deb9a9.chunk.js",
-  "main.js.map": "/playgame/static/js/main.d0deb9a9.chunk.js.map",
-  "static/js/1.64e16c9f.chunk.js": "/playgame/static/js/1.64e16c9f.chunk.js",
-  "static/js/1.64e16c9f.chunk.js.map": "/playgame/static/js/1.64e16c9f.chunk.js.map",
+  "main.js": "/playgame/static/js/main.9489e8de.chunk.js",
+  "main.js.map": "/playgame/static/js/main.9489e8de.chunk.js.map",
+  "static/js/1.bd4545a6.chunk.js": "/playgame/static/js/1.bd4545a6.chunk.js",
+  "static/js/1.bd4545a6.chunk.js.map": "/playgame/static/js/1.bd4545a6.chunk.js.map",
   "runtime~main.js": "/playgame/static/js/runtime~main.a4ed9892.js",
   "runtime~main.js.map": "/playgame/static/js/runtime~main.a4ed9892.js.map",
   "static/media/icon_medium.ce28ab0e.svg": "/playgame/static/media/icon_medium.ce28ab0e.svg",
@@ -18,6 +18,6 @@
   "static/media/news-2.png": "/playgame/static/media/news-2.0b999f77.png",
   "static/media/icon_mail.3ed018cf.svg": "/playgame/static/media/icon_mail.3ed018cf.svg",
   "index.html": "/playgame/index.html",
-  "precache-manifest.fe770404505073e4a86d75722d6647fe.js": "/playgame/precache-manifest.fe770404505073e4a86d75722d6647fe.js",
+  "precache-manifest.a279040debf0537fd0e0085fc3e275f0.js": "/playgame/precache-manifest.a279040debf0537fd0e0085fc3e275f0.js",
   "service-worker.js": "/playgame/service-worker.js"
 }
